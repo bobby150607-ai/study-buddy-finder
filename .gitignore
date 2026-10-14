@@ -1,0 +1,22 @@
+# Node and React
+node_modules/
+frontend/dist/
+frontend/build/
+
+# Java and Spring Boot
+backend/target/
+
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+application-local.properties
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Storebackend/startup-log.txt
+backend/startup-log.txt
